@@ -1,0 +1,58 @@
+[
+    {
+        "title":"IBPS PO and SBI PO Live Coaching",
+        "daysLeft":4,
+        "youtube":240,
+        "questions":9000,
+        "notes":120
+    },
+    {
+        "title":"Civil junior engineering Live coaching 2",
+        "daysLeft":15,
+        "youtube":200,
+        "questions":5000,
+        "notes":80
+    },
+    {
+        "title":"UPSC CDS - 2 2021 Live Coaching batch 3",
+        "daysLeft":2,
+        "youtube":220,
+        "questions":6000,
+        "notes":100
+    },
+    {
+        "title":"Civil Assistant Engineer Live Coaching",
+        "daysLeft":3,
+        "youtube":230,
+        "questions":5000,
+        "notes":85
+    },
+    {
+        "title":"BPSC Foundation Live Coaching(Pre + Main)",
+        "daysLeft":4,
+        "youtube":400,
+        "questions":2000,
+        "notes":300
+    },
+    {
+        "title":"Upcoming IAS GAS 2022 Foundation Live",
+        "daysLeft":1,
+        "youtube":240,
+        "questions":9000,
+        "notes":120
+    },
+    {
+        "title":"BPSC Foundation Live Coaching(Pre + Main)",
+        "daysLeft":4,
+        "youtube":400,
+        "questions":2000,
+        "notes":300
+    },
+    {
+        "title":"Upcoming IAS GAS 2022 Foundation Live",
+        "daysLeft":1,
+        "youtube":240,
+        "questions":9000,
+        "notes":120
+    }
+]
